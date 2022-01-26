@@ -1,3 +1,11 @@
+# jpa03-allisonhuang2
+## important links:
+- Link to repo: https://github.com/ucsb-cs156-w22/jpa03-allisonhuang2/
+- Heroku app: https://cs156-w22-jpa03-allisonhuang2.herokuapp.com/
+- Storybook:
+    - Production:
+    - QA:
+
 # demo-spring-react-example: dsre
 
 Storybook is here:
