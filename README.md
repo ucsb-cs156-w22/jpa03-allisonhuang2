@@ -5,7 +5,7 @@
 - Storybook:
     - Production:
     - QA:
-
+- Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2/branch/main/graph/badge.svg?token=vB0nIohKEh)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2)
 
