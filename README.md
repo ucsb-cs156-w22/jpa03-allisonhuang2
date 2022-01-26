@@ -1,10 +1,10 @@
 # jpa03-allisonhuang2
 ## important links:
-- Link to repo: https://github.com/ucsb-cs156-w22/jpa03-allisonhuang2/
-- Heroku app: https://cs156-w22-jpa03-allisonhuang2.herokuapp.com/
+- Repo Link: https://github.com/ucsb-cs156-w22/jpa03-allisonhuang2/
+- Heroku: https://cs156-w22-jpa03-allisonhuang2.herokuapp.com/
 - Storybook:
-    - Production:
-    - QA:
+    - Production: https://ucsb-cs156-w22.github.io/jpa03-allisonhuang2-docs/
+    - QA: https://ucsb-cs156-w22.github.io/jpa03-allisonhuang2-docs-qa/
 - Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2/branch/main/graph/badge.svg?token=vB0nIohKEh)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2)
