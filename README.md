@@ -6,6 +6,9 @@
     - Production:
     - QA:
 
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2/branch/main/graph/badge.svg?token=vB0nIohKEh)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-allisonhuang2)
+
 # demo-spring-react-example: dsre
 
 Storybook is here:
